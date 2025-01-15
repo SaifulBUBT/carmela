@@ -5,6 +5,8 @@ Follow the steps to run the project
 
 `git clone https://github.com/SaifulBUBT/carmela.git`
 
+`cd carmela`
+
 `npm install`
 
 `npm run dev`
