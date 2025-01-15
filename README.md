@@ -3,7 +3,9 @@ In this project we will break down an UI/UX diagram and create reusable componen
 ## How to Run:
 Follow the steps to run the project
 `git clone https://github.com/SaifulBUBT/carmela.git`
+
 `npm install`
+
 `npm run dev`
 
 ## UI Design:
