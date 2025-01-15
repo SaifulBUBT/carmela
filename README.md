@@ -17,3 +17,6 @@ Follow the steps to run the project
 ![Components hierarchy](https://github.com/SaifulBUBT/carmela/blob/main/src/assets/carmela-components-hierarchy2.png)
 ## Component Hierarchy in the React Dev Tool:
 ![react dev tool heirarchy](https://github.com/SaifulBUBT/carmela/blob/main/src/assets/components-in-dav-tools.png)
+
+[View Live Project](https://carmela.vercel.app/)
+
